@@ -11,6 +11,13 @@ O First2 é um app automotivo que funciona como um **minimapa em tempo real**, e
 
 Este manual tem como objetivo ajudar **usuários brasileiros** a entender rapidamente as funções do app, especialmente por ainda não existir documentação clara em português.
 
+## 🔗 Links oficiais do First2
+- Site oficial: https://www.first2.app/
+- iOS (App Store): https://apps.apple.com/br/app/first2/id6741798545
+- Android (Google Play): https://play.google.com/store/apps/details?hl=pt_BR&id=com.six33.first2
+
+---
+
 ## 📑 Sumário
 - [Sobre o First2](#-sobre-o-first2)
 - [O Mapa](#-o-mapa-the-map)
