@@ -11,6 +11,22 @@ O First2 é um app automotivo que funciona como um **minimapa em tempo real**, e
 
 Este manual tem como objetivo ajudar **usuários brasileiros** a entender rapidamente as funções do app, especialmente por ainda não existir documentação clara em português.
 
+## 📑 Sumário
+- [Sobre o First2](#-sobre-o-first2)
+- [O Mapa](#-o-mapa-the-map)
+- [Legenda do Mapa](#-legenda-do-mapa)
+- [Crews](#-crews)
+- [Garagem](#-garagem-garage)
+- [Moments](#-moments)
+- [Comunicação](#-comunicação)
+- [Eventos](#-eventos)
+- [Tour (Rotas Guiadas)](#-tour-passeios--rotas-guiadas)
+- [Safehouse (Privacidade)](#-safehouse-privacidade)
+- [FAQ – Problemas Comuns](#-faq--problemas-comuns)
+- [Dicas para Usuários BR](#-dicas-importantes-para-usuários-br)
+- [Contribuições](#-contribuições)
+- [Conclusão](#-conclusão)
+
 ---
 
 ## 🗺️ O MAPA (THE MAP)
@@ -147,6 +163,25 @@ Quando você entra numa Safehouse:
 - Sua localização **fica oculta**
 - Outros usuários **não conseguem te ver** naquele local  
 (incluindo amigos e membros da crew, enquanto ativo)
+
+---
+
+## ❓ FAQ – PROBLEMAS COMUNS
+
+### Não consigo verificar meu e-mail. O que fazer?
+Isso normalmente ocorre por **instabilidade do servidor** ou **expiração do link de verificação**.
+- Aguarde algumas horas e tente novamente
+- Evite clicar várias vezes no mesmo link
+- Se possível, tente novamente em outro horário
+
+### Usei alias no e-mail (ex: nome+first2@gmail.com). Dá problema?
+Não. Se o e-mail de verificação chegou, o alias **não é o problema**.
+
+### Safehouse realmente me deixa invisível?
+Sim. Enquanto ativo, sua localização fica **oculta no mapa**, inclusive para amigos e membros da crew.
+
+### O app está lento ou instável. É normal?
+Sim. Atualmente o First2 **não possui servidores no Brasil**, o que pode gerar lentidão em horários de pico.
 
 ---
 
